@@ -7,7 +7,7 @@ opinionated import organizer for Zig.
 
 ```sh
 brew tap mstdokumaci/zsort
-brew install zsort
+brew install mstdokumaci/zsort/zsort
 ```
 
 The formula builds from source with a keg-only `zig@0.15` — your own Zig
