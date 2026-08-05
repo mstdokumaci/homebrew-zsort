@@ -1,8 +1,8 @@
 class Zsort < Formula
   desc "Opinionated import organizer for Zig"
   homepage "https://github.com/mstdokumaci/zsort"
-  url "https://github.com/mstdokumaci/zsort/archive/refs/tags/v0.4.0.tar.gz"
-  sha256 "872a3cc101ceab67b93909251d9bb02d42ebf6ef1a23db03a113ff5f9556cc92"
+  url "https://github.com/mstdokumaci/zsort/archive/refs/tags/v0.5.0.tar.gz"
+  sha256 "06a0219d4c23b000ce8b9608f7ae1ab71f62aed627f18073d3427441686d332f"
   license "MIT"
 
   head "https://github.com/mstdokumaci/zsort.git", branch: "main"
